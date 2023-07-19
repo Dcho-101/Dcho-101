@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dcho-101
 - 👀 Interested in Data Science, Data Analyst, Technical Writing, Python Coding
-- 🌱 Currently learning Python 
+- 🌱 Currently learning Python, SQL, Tableau, Excel
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on Insta @Dcho1001 or mail me at- dcho3293@gmail.com
+- 📫 Reach me on Insta @Dcho1001 or mail me at- raichu170@gmail.com
 
 <!---
 Dcho-101/Dcho-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
