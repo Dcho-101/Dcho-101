@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dcho-101
-- 👀 Interested in Data Science, Data Analyst, Technical Writing, Python Coding
-- 🌱 Currently learning Python, SQL, Tableau, Excel
+- 👀 Interested in Data Science, Data Analyst, Technical Writing, Python and SQL Coding
+- 🌱 Continously learning Python, SQL, Tableau, Excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Insta @Dcho1001 or mail me at- raichu170@gmail.com
 
