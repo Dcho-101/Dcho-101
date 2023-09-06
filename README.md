@@ -5,6 +5,6 @@
 - 📫 Reach me on Insta @Dcho_101 or mail me at- raichu170@gmail.com
 
 <!---
-Dcho-101/Dcho-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dcho-101/Dcho-101 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
