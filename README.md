@@ -1,6 +1,6 @@
 - 👋 Hi, it's Dibyendu Chowdhury
-- 👀 Interested in Data Science, Data Analyst, Technical Desertation Writing, Python and SQL Coding, Tableau and PowerBI
-- 🌱 Continuously learning Python, SQL, Tableau, MS Excel, Tableau, PowerBI
+- 👀 Data Science, Data Analyst, Technical Desertation Writing, Python and SQL Coding, PowerBI
+- 🌱 Python, SQL, Power BI, MS Excel,
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Insta @Dcho_101 or mail me at- raichu170@gmail.com
 
